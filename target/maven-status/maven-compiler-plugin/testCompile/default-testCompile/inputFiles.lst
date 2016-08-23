@@ -1,0 +1,13 @@
+/Users/hlulani/Desktop/Book/book-shelf/src/test/java/com/thoughtworks/books/controller/customer/CustomerControllerTest.java
+/Users/hlulani/Desktop/Book/book-shelf/src/test/java/com/thoughtworks/books/entity/CustomerTest.java
+/Users/hlulani/Desktop/Book/book-shelf/src/test/java/com/thoughtworks/books/controller/ShoppingCartController/EmptyShoppingCartControllerTest.java
+/Users/hlulani/Desktop/Book/book-shelf/src/test/java/com/thoughtworks/books/controller/ShoppingCartController/RemoveFromCartListController.java
+/Users/hlulani/Desktop/Book/book-shelf/src/test/java/com/thoughtworks/books/controller/BooksController/BookListControllerTest.java
+/Users/hlulani/Desktop/Book/book-shelf/src/test/java/com/thoughtworks/books/entity/BookTest.java
+/Users/hlulani/Desktop/Book/book-shelf/src/test/java/com/thoughtworks/books/controller/ShoppingCartController/CartListControllerTest.java
+/Users/hlulani/Desktop/Book/book-shelf/src/test/java/com/thoughtworks/books/dao/customer/CustomerDaoTest.java
+/Users/hlulani/Desktop/Book/book-shelf/src/test/java/com/thoughtworks/books/controller/ShoppingCartController/AddToCartControllerTest.java
+/Users/hlulani/Desktop/Book/book-shelf/src/test/java/com/thoughtworks/books/dao/book/BookDaoTest.java
+/Users/hlulani/Desktop/Book/book-shelf/src/test/java/com/thoughtworks/books/service/book/BookServiceTest.java
+/Users/hlulani/Desktop/Book/book-shelf/src/test/java/com/thoughtworks/books/service/shop/ShoppingCartServiceTest.java
+/Users/hlulani/Desktop/Book/book-shelf/src/test/java/com/thoughtworks/books/service/customer/CustomerServiceTest.java
